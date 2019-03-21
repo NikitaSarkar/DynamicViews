@@ -1,0 +1,6 @@
+[{"field-name":"Name", "type":"text", "required":true},
+  {"field-name":"Age", "type":"number", "min":18, "max":65, "required":true},
+  {"field-name":"Company Name", "type":"text"},
+  {"field-name":"Designation", "type":"text"},
+  {"field-name":"Gender", "type":"dropdown", "options":["Male", "Female", "Other"]},
+  {"field-name":"Address", "type":"multiline"}]

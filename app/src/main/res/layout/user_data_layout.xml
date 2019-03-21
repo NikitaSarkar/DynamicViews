@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/container_margin">
+
+
+    <TextView
+        android:id="@+id/txtField1"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_field_height"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size"/>
+
+
+    <TextView
+        android:id="@+id/txtField2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/text_field_height"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_size" />
+
+    <View
+        android:background="@color/gray"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        />
+
+</LinearLayout>

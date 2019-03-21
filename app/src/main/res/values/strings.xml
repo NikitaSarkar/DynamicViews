@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hubblering</string>
+    <string name="total_reports">Total Reports :</string>
+    <string name="done_button">Done</string>
+    <string name="add_button">Add</string>
+    <string name="age_field">Age</string>
+    <string name="name_validation_msg">Name field is mandatory</string>
+    <string name="address_validation_msg">Address field is mandatory</string>
+    <string name="age_validation_msg">Enter valid age</string>
+</resources>

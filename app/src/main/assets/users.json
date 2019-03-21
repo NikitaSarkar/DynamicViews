@@ -1,0 +1,4 @@
+[{"field-name":"Name", "type":"text", "required":true},
+{"field-name":"Age", "type":"number", "min":18, "max":65, "required":true},
+{"field-name":"Gender", "type":"dropdown", "options":["Male", "Female", "Other"]},
+{"field-name":"Address", "type":"multiline"}]
