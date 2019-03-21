@@ -2,7 +2,7 @@
 
 This app creates dynamic views using JSON Array.
 
-There are two screens in the app. The 1st screen will have an Add Button and a Total Reports count.
+There are two screens in the app. The 1st screen has an Add Button and a Total Reports count.
 Total reports will be zero initially as you haven't added any reports.
 
 
